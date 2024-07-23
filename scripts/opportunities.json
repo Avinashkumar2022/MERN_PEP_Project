@@ -1,0 +1,35 @@
+[
+    {
+      "profile_name": "Software Engineer Intern",
+      "company_name": "ABC Corp",
+      "stipend": "10,000",
+      "location": "New York",
+      "duration": "3 months",
+      "start_date": "2024-08-01"
+    },
+    {
+      "profile_name": "Data Analyst Intern",
+      "company_name": "XYZ Ltd",
+      "stipend": "8,000",
+      "location": "San Francisco",
+      "duration": "6 months",
+      "start_date": "2024-09-01"
+    },
+    {
+      "profile_name": "Data Analyst Intern",
+      "company_name": "XYZ Ltd",
+      "stipend": "8,000",
+      "location": "San Francisco",
+      "duration": "6 months",
+      "start_date": "2024-09-01"
+    },
+    {
+      "profile_name": "Data Analyst Intern",
+      "company_name": "XYZ Ltd",
+      "stipend": "8,000",
+      "location": "San Francisco",
+      "duration": "6 months",
+      "start_date": "2024-09-01"
+    }
+  ]
+  
